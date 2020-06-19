@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Based on [Learn the MERN Stack] (https://www.youtube.com/watch?v=7CqJlxBYj-M)
+But I updated the React code to use useState and useEffect
 
 ## Available Scripts
 

@@ -1,0 +1,10 @@
+header {
+    color: #fff;
+    background-color: #282c34;
+    min-height: 10vh;
+}
+
+header img {
+    float: left;
+    height: 10vh;
+}
